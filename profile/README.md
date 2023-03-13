@@ -8,12 +8,12 @@ A collaborative organisation for cross-institution projects in differentiable op
 
 ## Software:
 
-### Zodiax: Object-Oriented Jax
+### [Zodiax](https://github.com/LouisDesdoigts/zodiax): Object-Oriented Jax
 
 `Zodiax` is a lightweight extension to the object-oriented `jax` package `equinox`, designed to to simplify working with pytrees for scientific data analysis, adding extra functionality to make working with optimisation and inference libraries like optax and NumPyro easy.
 
 
-### dLux: Optical models parametrised neural-networks
+### [dLux](https://github.com/LouisDesdoigts/dLux): Optical models parametrised neural-networks
 
 `dLux` is a differentiable physical optics modelling framework built using `jax` for automatic differentiation and GPU acceleration.
 
