@@ -24,9 +24,9 @@ Please add links to the software and repos you are working on here!
 
 ## Projects
 
-The TOLIMAN space telescope is an affordable and agile mission focused on finding nearby exoplanets, with a particular interest in the Alpha Cen system. Contemporary astronomy struggles to identify rocky planets in specific star systems, and TOLIMAN aims to solve this problem by pioneering high-precision astrometric monitoring to study stars within 10 parsecs of the sun.
+### TOLIMAN
 
-TODO: fill out
+The TOLIMAN space telescope is an affordable and agile mission focused on finding nearby exoplanets, with a particular interest in the Alpha Cen system. Contemporary astronomy struggles to identify rocky planets in specific star systems, and TOLIMAN aims to solve this problem by pioneering high-precision astrometric monitoring to study stars within 10 parsecs of the sun.
 
 ### JWST
 
