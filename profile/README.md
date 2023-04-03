@@ -52,3 +52,5 @@ Weekly google slides: [link](https://docs.google.com/presentation/d/1H49bcS_rkwi
 ## Previous Slides
 
 [Week 1](https://docs.google.com/presentation/d/1H71djy2mo70TRAEEHTBPRlHbvy9V-2laPCcVi1YMwfE/edit?usp=sharing)
+
+[Week 2](https://docs.google.com/presentation/d/1e3Vh8_vRa4wxaLsmhNoCrmTkSRQSLUbMGAnjNVU6Ibo/edit?usp=sharing)
